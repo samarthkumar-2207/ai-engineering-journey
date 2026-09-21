@@ -5,6 +5,7 @@ description = "My AI engineering learning journey"
 requires-python = ">=3.14"
 dependencies = [
     "numpy",
+    "pandas>=3.0.6",
 ]
 
 [build-system]
