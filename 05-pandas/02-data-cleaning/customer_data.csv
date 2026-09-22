@@ -1,0 +1,12 @@
+customer_id,age,income,tenure,city,plan,churned
+1001,22,35000,3,Delhi,Basic,0
+1002,29,52000,12,Mumbai,Premium,0
+1003,35,68000,24,Delhi,Premium,0
+1004,,45000,6,Pune,Basic,1
+1005,41,82000,36,Bangalore,Premium,0
+1006,26,,8,Mumbai,Basic,1
+1007,31,61000,18,Pune,Premium,0
+1008,45,95000,48,Delhi,Premium,0
+1009,28,42000,5,Mumbai,Basic,1
+1010,38,72000,30,Bangalore,Premium,0
+1010,38,72000,30,Bangalore,Premium,0
