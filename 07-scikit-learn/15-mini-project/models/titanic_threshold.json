@@ -1,0 +1,7 @@
+{
+    "production_threshold": 0.5,
+    "validation_selected_threshold": 0.35,
+    "selection_metric": "F1",
+    "validation_samples": 210,
+    "test_samples": 262
+}
