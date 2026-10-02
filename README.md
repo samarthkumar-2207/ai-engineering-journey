@@ -99,12 +99,13 @@ ai-engineering-journey/
 | Logistic Regression                 | ✅ Completed  |
 | Classification Metrics              | ✅ Completed  |
 | ROC-AUC / PR-AUC                    | ✅ Completed  |
-| Pandas                              | ⬜ Next       |
-| Matplotlib                          | ⬜ Upcoming   |
-| Scikit-learn                        | ⬜ Upcoming   |
-| Classical Machine Learning          | ⬜ Planned    |
+| Pandas                              | ✅ Completed  |
+| Matplotlib                          | ✅ Completed  |
+| Scikit-learn                        | ✅ Completed  |
+| Classical Machine Learning          | ✅ Completed  |
+| Mini Project                        | ✅ Completed  |
 |                                     |               |
-| 🚀 Project 1: Production ML System | ⬜ Planned    |
+| 🚀 Project 1: Production ML System | ⬜    Next    |
 | ├── FastAPI / REST APIs             | ⬜ Planned    |
 | ├── PostgreSQL                      | ⬜ Planned    |
 | ├── Docker                          | ⬜ Planned    |
